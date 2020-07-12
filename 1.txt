@@ -1,0 +1,13 @@
+ Volume in drive D is software
+ Volume Serial Number is 6261-C87B
+
+ Directory of D:\source\git-basics
+
+12-07-2020  13:45    <DIR>          .
+12-07-2020  13:45    <DIR>          ..
+12-07-2020  13:46                 0 1.txt
+12-07-2020  13:29    <DIR>          config
+12-07-2020  13:24                27 sample.txt
+12-07-2020  13:26                13 sample2.txt
+               3 File(s)             40 bytes
+               3 Dir(s)  24,493,633,536 bytes free
